@@ -3,14 +3,19 @@
 
 <br>
 
-🔭 Actuellement je travail sur un projet appelé YelpCamp :)
+🔭 Actuellement je travail sur deux projets: 
+    <ul>
+      <li>50 Projects in 50 Days (<a href="https://luisgarcia96.github.io/50projects50days/">LIVE DEMO ICI</a>)</li>
+      <li>YelpCamp</li>
+    </ul>
+    
 <!-- 👀 I’m interested in ... -->
 🌱 Je suis en train d'apprendre Express et bientôt React
 <!--💞️ I’m looking to collaborate on ...-->
 🥅 Objectifs 2022:
 <ul>
-  <li>Apprendre React</li>
   <li>Décrocher une alternance</li>
+  <li>Apprendre React</li>
   <li>Collaborer dans un premier projet OpenSource</li>
 </ul>
 
