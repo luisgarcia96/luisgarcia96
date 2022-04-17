@@ -3,7 +3,7 @@
 
 <br>
 
-🔭 Actuellement je travail sur deux projets: 
+🔭 Actuellement je travaille sur deux projets: 
     <ul>
       <li>50 Projects in 50 Days (<a href="https://luisgarcia96.github.io/50projects50days/">LIVE DEMO ICI</a>)</li>
       <li>YelpCamp</li>
