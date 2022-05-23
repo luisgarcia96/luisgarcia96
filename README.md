@@ -14,7 +14,7 @@
 <!--💞️ I’m looking to collaborate on ...-->
 🥅 Objectifs 2022:
 <ul>
-  <li>Décrocher une alternance</li>
+  <li>Décrocher une alternance ✅</li>
   <li>Apprendre React</li>
   <li>Collaborer dans un premier projet OpenSource</li>
 </ul>
