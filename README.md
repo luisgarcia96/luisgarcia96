@@ -51,7 +51,7 @@
 ---
 ### #Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgarcia96&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisgarcia96&show_icons=true&theme=tokyonigh" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgarcia96&layout=compact&theme=tokyonight" />
