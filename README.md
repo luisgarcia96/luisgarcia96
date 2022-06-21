@@ -10,7 +10,7 @@
     </ul>
     
 <!-- 👀 I’m interested in ... -->
-🌱 Je suis en train d'apprendre Express et bientôt React
+🌱 Je suis en train d'apprendre React
 <!--💞️ I’m looking to collaborate on ...-->
 🥅 Objectifs 2022:
 <ul>
