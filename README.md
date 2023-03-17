@@ -1,26 +1,26 @@
-<h1 align="center">Salut!👋 Moi c'est Luis</h1>
-<h3 align="center">Un développeur junior passioné par l'apprentisage 🤓📖</h3>
+<h1 align="center">Hi!👋 I'm Luis</h1>
+<h3 align="center">Web Developer 🤓📖</h3>
 
 <br>
 
-🔭 Actuellement je travaille sur deux projets: 
+🔭 Currently I'm studying and I'm working on this side projects: 
     <ul>
-      <li>50 Projects in 50 Days (<a href="https://luisgarcia96.github.io/50projects50days/">LIVE DEMO ICI</a>)</li>
+      <li>50 Projects in 50 Days (<a href="https://luisgarcia96.github.io/50projects50days/">Demo here</a>)</li>
       <li>YelpCamp</li>
     </ul>
     
 <!-- 👀 I’m interested in ... -->
-🌱 Je suis en train d'apprendre React
+🌱 I'm learning React and MongoDB
 <!--💞️ I’m looking to collaborate on ...-->
-🥅 Objectifs 2022:
+🥅 2023 goals:
 <ul>
-  <li>Décrocher une alternance ✅</li>
-  <li>Collaborer dans un premier projet OpenSource</li>
+  <li>Collaborate for the first time in an Open Source project</li>
+  <li>Learn TypeScript MongoDB</li>
 </ul>
 
 
 ---
-### Connecte avec moi
+### Connect with me
 <a href="https://www.linkedin.com/in/luis-armando-garcia/">
   <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
   /luis-armando-garcia
@@ -36,12 +36,9 @@
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Symfony" width="35px" src="https://symfony.com/logos/symfony_white_03.png" style="padding-right:10px;" />
-<!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> -->
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" />
 
