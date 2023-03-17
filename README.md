@@ -3,7 +3,7 @@
 
 <br>
 
-🔭 Currently I'm studying and I'm working on this side projects: 
+🔭 Currently I'm a student and I'm working on this side projects: 
     <ul>
       <li>50 Projects in 50 Days (<a href="https://luisgarcia96.github.io/50projects50days/">Demo here</a>)</li>
       <li>YelpCamp</li>
