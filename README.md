@@ -3,7 +3,7 @@
 
 <br>
 
-🔭 Currently I'm a student at Openclassrooms and a front end developer at Odaptos. Also, I'm working on this side projects: 
+🔭 Currently I'm a student at Openclassrooms and a Web developer at Odaptos. Also, I'm working on this side projects: 
     <ul>
       <li>50 Projects in 50 Days (<a href="https://luisgarcia96.github.io/50projects50days/">Demo here</a>)</li>
       <li>YelpCamp</li>
@@ -12,10 +12,9 @@
 <!-- 👀 I’m interested in ... -->
 🌱 I'm learning React and MongoDB
 <!--💞️ I’m looking to collaborate on ...-->
-🥅 2023 goals:
+🥅 2025 goals:
 <ul>
   <li>Collaborate for the first time in an Open Source project</li>
-  <li>Learn TypeScript &  MongoDB</li>
 </ul>
 
 
