@@ -1,44 +1,22 @@
-<h1 align="center">Hi!👋 I'm Luis</h1>
-<!-- <h3 align="center">Web Developer 🤓📖</h3> -->
+<h1 align="center">Hi, I'm Luis 👋</h1>
+<p align="center">Full stack developer · Web & mobile</p>
 
 <br>
 
-🔭 I am a full stack developer. Currently, I'm working on these side projects: 
-<ul>
-  <li>Pilotis Compagnie Website (<a href="https://www.pilotiscompagnie.com/">Go to website</a>)</li>
-</ul>
+I build web apps with **React** and **Node.js**, and I'm expanding into native mobile with **Kotlin** and **Android**.
 
-🌱 I'm learning Android development  
+🔭 **Currently working on:** [Pilotis Compagnie](https://www.pilotiscompagnie.com/), a website for a theatre company  
+🌱 **Learning:** Android development  
+🎯 **Goals:** launch my first Android app on the Play Store and grow it to its first 100 users
 
-🥅 2026 goals:
-<ul>
-  <li>Build and publish your first Android app on the Play Store</li>
-  <li>Contribute to an Android open-source library</li>
-</ul>
+### 🛠️ Tech stack
 
----
-### Connect with me
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,sass,nodejs,express,mongodb,kotlin,androidstudio,git,github,vscode&perline=12" alt="Tech stack" />
+</p>
+
+### 📫 Let's connect
+
 <a href="https://www.linkedin.com/in/luis-armando-garcia/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
-  /luis-armando-garcia
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<br>
-<br>
-
----
-### Languages and tools:
-
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" width="26px" src="https://user-images.githubusercontent.com/74296603/226047967-63576da4-404e-4933-a95f-0980345cb181.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Android" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Android Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
