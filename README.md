@@ -3,9 +3,8 @@
 
 <br>
 
-🔭 Currently I'm a student at Openclassrooms and a Web developer at Odaptos. Also, I'm working on these side projects: 
+🔭 I am a full stack developer. Currently, I'm working on these side projects: 
 <ul>
-  <li>50 Projects in 50 Days (<a href="https://luisgarcia96.github.io/50projects50days/">Demo here</a>)</li>
   <li>Pilotis Compagnie Website (<a href="https://www.pilotiscompagnie.com/">Go to website</a>)</li>
 </ul>
 
