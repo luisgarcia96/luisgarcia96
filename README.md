@@ -7,7 +7,7 @@ I build web apps with **React** and **Node.js**, and I'm expanding into native m
 
 🔭 **Currently working on:** [Pilotis Compagnie](https://www.pilotiscompagnie.com/), a website for a theatre company  
 🌱 **Learning:** Android development  
-🎯 **Goals:** launch my first Android app on the Play Store and grow it to its first 100 users
+🎯 **Goals:** launch my first Android/iOS app and grow it to its first 100 users
 
 ### 🛠️ Tech stack
 
