@@ -6,7 +6,7 @@
 I build web apps with **React** and **Node.js**, and I'm expanding into native mobile with **Kotlin** and **Android**.
 
 🔭 **Currently working on:** [Pilotis Compagnie](https://www.pilotiscompagnie.com/), a website for a theatre company  
-🌱 **Learning:** Android development  
+🌱 **Learning:**  
 🎯 **Goals:** launch my first Android/iOS app and grow it to its first 100 users
 
 ### 🛠️ Tech stack
